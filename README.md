@@ -1,3 +1,3 @@
 ## All tweets where tcs is mentioned... 
 
-using embeded widget Demo: <http://lalitsom.github.io>
+using embeded widget Demo: <http://lalitsom.github.io/tcs>
